@@ -1,0 +1,9 @@
+* {
+  box-sizing: border-box;
+  margin: 0;
+  padding: 0;
+}
+:root {
+  --twitter-color: #50b7f5;
+  --twitter-bg-color: #e6ecf0;
+}
